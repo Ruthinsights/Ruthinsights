@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋Hi, I'm Ruth
+I'm a data analyst passionate about turning raw data into meaningful insights and building dashboard that tell clear stories.
 
 <!--
 **Ruthinsights/Ruthinsights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
