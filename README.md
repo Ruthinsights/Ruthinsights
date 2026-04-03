@@ -1,6 +1,14 @@
 ## 👋Hi, I'm Ruth
-I'm a data analyst passionate about turning raw data into meaningful insights and building dashboard that tell clear stories.
-
+Data Analyst | Turning Data into Business Insights
+## Based in Lagos, Nigeria
+## About Me
+I'm a data analyst passionate about turning raw data into meaning insights and building dashboards that tell clear stories. I help organizations make sense of complex datasets and translate them into actionable insights.
+What I Do:
+* Transforming raw and messy datasets into structured, actionable information using Excel, SQL and Python.
+* Extracting, manipulating and analyzing data efficiently with SQL.
+* Building interactive, insightful dashboards using Power BI.
+* Translating data into clear insights that support decision making.
+* Automating task, analyzing trends and implementing data driven solutions.
 <!--
 **Ruthinsights/Ruthinsights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
