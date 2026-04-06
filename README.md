@@ -9,7 +9,7 @@ What I Do:
 * Building interactive, insightful dashboards using Power BI.
 * Translating data into clear insights that support decision making.
 * Automating task, analyzing trends and implementing data driven solutions.
-## SKILLS SNAPSHOT
+## Skills Snapshot
 ## Microsoft Excel
 * Advanced data cleaning and formatting
 * Pivot tables, formulas, functions and and pivot charts for summary analysis
@@ -32,9 +32,9 @@ What I Do:
 * Creating calculated columns and measures using DAX
 * Identifying insights to support business decisions
 ## Tools and Skills 
-* # Languages: SQL(PostgreSQL, MYSQL), Python, DAX
-* # Tools: Excel, Power BI, Google Sheets, Canva
-* # Soft skills: Detailed Oriented, Problem Solving, Storytelling, Statistical Analysis, Customer Communication
+* #Languages: SQL(PostgreSQL, MYSQL), Python, DAX
+* #Tools: Excel, Power BI, Google Sheets, Canva
+* #Soft skills: Detailed Oriented, Problem Solving, Storytelling, Statistical Analysis, Customer Communication
 ## Let's Connect
 * https://www.linkedin.com/in/otito-sunday-377231246
 * otitoruth04@gmail.com
