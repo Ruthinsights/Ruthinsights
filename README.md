@@ -32,9 +32,9 @@ What I Do:
 * Creating calculated columns and measures using DAX
 * Identifying insights to support business decisions
 ## Tools and Skills 
-* #Languages: SQL(PostgreSQL, MYSQL), Python, DAX
-* #Tools: Excel, Power BI, Google Sheets, Canva
-* #Soft skills: Detailed Oriented, Problem Solving, Storytelling, Statistical Analysis, Customer Communication
+* **Languages**: SQL(PostgreSQL, MYSQL), Python, DAX
+* **Tools**: Excel, Power BI, Google Sheets, Canva
+  **Soft skills**: Detailed Oriented, Problem Solving, Storytelling, Statistical Analysis, Customer Communication
 ## Let's Connect
 * https://www.linkedin.com/in/otito-sunday-377231246
 * otitoruth04@gmail.com
