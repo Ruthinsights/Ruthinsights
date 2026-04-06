@@ -40,6 +40,7 @@ What I Do:
 * otitoruth04@gmail.com
 * https://www.tiktok.com/@rekya090?_r=1&_t=ZS-95EywviXx0G
 * https://www.instagram.com/sundayotito?igsh=MTVvNTZzdXdpNHcyOQ%3D%3D&utm_source=qr
+
 "Data tells stories; my job is to find them and make them impossible to ignore"
 
 Thanks for dropping by
